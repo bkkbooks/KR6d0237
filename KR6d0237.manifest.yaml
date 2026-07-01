@@ -1,0 +1,823 @@
+canonical_identifier: bkk:krp/KR6d0237/v1
+canonical_location: https://kanripo.org/bkk/KR6d0237/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 施食通覽
+  identifiers:
+    alt_id:
+    - X57n0961
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0961.xml
+    old_id: X57n0961
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0237_000.yaml, hash: 'sha256:62b656eca6c2cbae758ef78d114b79e673bc574ae0a263ba9ed977e765277f8a'}
+  - {seq: 1, filename: KR6d0237_001.yaml, hash: 'sha256:77583f907c36200c74a40ec037364c0e834689a61a913c75c241a34b67c17a4e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0237_000.markers.yaml, hash: 'sha256:59c9afc5e4ed8724ff7ba2992471bf2ae3bb71fa01a7c9f75dc1dc6de2489cbb'}
+  - {seq: 1, role: markers, filename: assets/KR6d0237_001.markers.yaml, hash: 'sha256:48b22acb1ea91421d537c88fd8e0df24b6c4c08ee14165c3353861c3701753a8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0237_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 961-A 梓施食通覽序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0237_X_000-mulu-2
+    span:
+    - front
+    - 373
+    - 373
+  label: No. 961-B 施食通覽(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0237_X_000-mulu-3
+    span:
+    - front
+    - 549
+    - 549
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 24008
+  label: 施食通覧卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 救面然餓鬼陀羅尼神呪經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-2
+    span:
+    - body
+    - 1228
+    - 1228
+  label: 施甘露水陀羅尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-3
+    span:
+    - body
+    - 1251
+    - 1251
+  label: 施甘露水陀羅尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-4
+    span:
+    - body
+    - 1329
+    - 1329
+  label: 施乳海陀羅尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-5
+    span:
+    - body
+    - 1449
+    - 1449
+  label: 甘露王如來讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-6
+    span:
+    - body
+    - 1521
+    - 1521
+  label: 救拔焰口陀羅尼經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-7
+    span:
+    - body
+    - 1972
+    - 1972
+  label: 救拔焰口餓鬼陀羅尼經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-8
+    span:
+    - body
+    - 3483
+    - 3483
+  label: 佛化曠野鬼神緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-9
+    span:
+    - body
+    - 3882
+    - 3882
+  label: 佛化鬼子母緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-10
+    span:
+    - body
+    - 4797
+    - 4797
+  label: 比丘乞食當分為四分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-11
+    span:
+    - body
+    - 5062
+    - 5062
+  label: 受食呪願偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-12
+    span:
+    - body
+    - 5172
+    - 5172
+  label: 觀心食法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-13
+    span:
+    - body
+    - 5503
+    - 5503
+  label: 出生圖紀(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-14
+    span:
+    - body
+    - 6314
+    - 6314
+  label: 施食正名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-15
+    span:
+    - body
+    - 6682
+    - 6682
+  label: 施食法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-16
+    span:
+    - body
+    - 7499
+    - 7499
+  label: 施食文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-17
+    span:
+    - body
+    - 7830
+    - 7830
+  label: 施食法式
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-18
+    span:
+    - body
+    - 8200
+    - 8200
+  label: 施食觀想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-19
+    span:
+    - body
+    - 9742
+    - 9742
+  label: 改祭修齋決疑頌(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-20
+    span:
+    - body
+    - 12144
+    - 12144
+  label: 施食須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-21
+    span:
+    - body
+    - 13707
+    - 13707
+  label: 施餓鬼食文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-22
+    span:
+    - body
+    - 13923
+    - 13923
+  label: 施食放生文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-23
+    span:
+    - body
+    - 14244
+    - 14244
+  label: 崔學士施食感驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-24
+    span:
+    - body
+    - 14461
+    - 14461
+  label: 士大夫施食文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-25
+    span:
+    - body
+    - 14902
+    - 14902
+  label: 水陸大齋靈跡記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-26
+    span:
+    - body
+    - 16025
+    - 16025
+  label: 水陸緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-27
+    span:
+    - body
+    - 17190
+    - 17190
+  label: 水陸法像贊(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-28
+    span:
+    - body
+    - 17202
+    - 17202
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-29
+    span:
+    - body
+    - 17406
+    - 17406
+  label: 上堂八位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-30
+    span:
+    - body
+    - 17410
+    - 17410
+  label: 第一佛陀耶眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-31
+    span:
+    - body
+    - 17448
+    - 17448
+  label: 第二達摩耶眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-32
+    span:
+    - body
+    - 17486
+    - 17486
+  label: 第三僧伽耶眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-33
+    span:
+    - body
+    - 17524
+    - 17524
+  label: 第四大菩薩眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-34
+    span:
+    - body
+    - 17562
+    - 17562
+  label: 第五大辟支佛眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-35
+    span:
+    - body
+    - 17601
+    - 17601
+  label: 第六大阿羅漢眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-36
+    span:
+    - body
+    - 17640
+    - 17640
+  label: 第七五通神仙眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-37
+    span:
+    - body
+    - 17679
+    - 17679
+  label: 第八護法天龍眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-38
+    span:
+    - body
+    - 17718
+    - 17718
+  label: 下堂八位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-39
+    span:
+    - body
+    - 17722
+    - 17722
+  label: 第一官僚吏從眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-40
+    span:
+    - body
+    - 17761
+    - 17761
+  label: 第二三界諸天眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-41
+    span:
+    - body
+    - 17800
+    - 17800
+  label: 第三阿修羅王眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-42
+    span:
+    - body
+    - 17839
+    - 17839
+  label: 第四人道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-43
+    span:
+    - body
+    - 17876
+    - 17876
+  label: 第五地獄道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-44
+    span:
+    - body
+    - 17914
+    - 17914
+  label: 第六餓鬼道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-45
+    span:
+    - body
+    - 17952
+    - 17952
+  label: 第七旁生道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-46
+    span:
+    - body
+    - 17990
+    - 17990
+  label: 第八六道外者眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-47
+    span:
+    - body
+    - 18029
+    - 18029
+  label: 修水陸葬枯骨疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-48
+    span:
+    - body
+    - 18263
+    - 18263
+  label: 初入道場敘建水陸意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-49
+    span:
+    - body
+    - 18794
+    - 18794
+  label: 宣白召請水陸上下堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-50
+    span:
+    - body
+    - 18794
+    - 18794
+  label: 宣白召請上堂八位聖眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-51
+    span:
+    - body
+    - 19035
+    - 19035
+  label: 請佛陀耶眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-52
+    span:
+    - body
+    - 19145
+    - 19145
+  label: 請達摩耶眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-53
+    span:
+    - body
+    - 19239
+    - 19239
+  label: 請僧伽耶眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-54
+    span:
+    - body
+    - 19331
+    - 19331
+  label: 請大菩薩眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-55
+    span:
+    - body
+    - 19424
+    - 19424
+  label: 請大辟支佛眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-56
+    span:
+    - body
+    - 19520
+    - 19520
+  label: 請大阿羅漢眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-57
+    span:
+    - body
+    - 19613
+    - 19613
+  label: 請五通神仙眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-58
+    span:
+    - body
+    - 19707
+    - 19707
+  label: 請護法天龍眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-59
+    span:
+    - body
+    - 19804
+    - 19804
+  label: 宣白召請下堂八位聖凡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-60
+    span:
+    - body
+    - 19891
+    - 19891
+  label: 請官僚吏從眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-61
+    span:
+    - body
+    - 20108
+    - 20108
+  label: 請三界諸天眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-62
+    span:
+    - body
+    - 20236
+    - 20236
+  label: 請阿修羅道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-63
+    span:
+    - body
+    - 20383
+    - 20383
+  label: 請人道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-64
+    span:
+    - body
+    - 20516
+    - 20516
+  label: 請餓鬼道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-65
+    span:
+    - body
+    - 20667
+    - 20667
+  label: 請畜生道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-66
+    span:
+    - body
+    - 20812
+    - 20812
+  label: 請地獄道眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-67
+    span:
+    - body
+    - 20959
+    - 20959
+  label: 請六道外者眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-68
+    span:
+    - body
+    - 21100
+    - 21100
+  label: 水陸齋儀文後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-69
+    span:
+    - body
+    - 21487
+    - 21487
+  label: 斛前召請啟白
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-70
+    span:
+    - body
+    - 21954
+    - 21954
+  label: 歐陽文忠公宿採石聞鬼聲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-71
+    span:
+    - body
+    - 22124
+    - 22124
+  label: 佛印禪師加持水陸感驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-72
+    span:
+    - body
+    - 22381
+    - 22381
+  label: 誦破地獄偈感驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-73
+    span:
+    - body
+    - 22756
+    - 22756
+  label: 誦破地獄呪感驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-74
+    span:
+    - body
+    - 22898
+    - 22898
+  label: 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0237_X_001-mulu-75
+    span:
+    - body
+    - 23714
+    - 23714
+  label: No. 961-C 䟦
+  type: mulu
+  level: 1
+hash: sha256:08969c6d3427d37cf0e03e8419b369616d680416f968f8ecf446317b84725884
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
