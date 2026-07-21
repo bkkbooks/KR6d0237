@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0237_000.yaml, hash: 'sha256:67da898ee61a992b1ae937d4102fb4d9657c9317137ab69ec263a920de7cf9d6'}
+  - {seq: 0, filename: KR6d0237_000.yaml, hash: 'sha256:fd24a32ffa31f4810168f1186f7b5276b5a2462110a428a9369545dd648a85f5'}
   - {seq: 1, filename: KR6d0237_001.yaml, hash: 'sha256:c9bd3eecd35eda37d123a4390c0c3b891401a0f8d4fd9af4dd5a46d821d68467'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0237_000.markers.yaml, hash: 'sha256:357b91fb29c0cf1accff4ff563a0f7807c87cbeb0d882e1bca0b29e41aff48cc'}
+  - {seq: 0, role: markers, filename: assets/KR6d0237_000.markers.yaml, hash: 'sha256:df699e35b2ed3c6eee74e0ec7edf888c0362956fe5ec299ab98a481e39b36180'}
   - {seq: 1, role: markers, filename: assets/KR6d0237_001.markers.yaml, hash: 'sha256:5958a9470bcff6857c9cbe9be4e6e3009b9a8ff63767dc67279689476e8eeed2'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0237_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 961-A 梓施食通覽序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0237_X_000-mulu-2
     span:
-    - front
+    - body
     - 373
     - 373
   label: No. 961-B 施食通覽(并序)
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0237_X_000-mulu-3
     span:
-    - front
+    - body
     - 549
     - 549
   label: 目錄
@@ -817,7 +817,7 @@ table_of_contents:
   label: No. 961-C 䟦
   type: mulu
   level: 1
-hash: sha256:4ee2131111aea33d7380d31373fc55d91f7cccb7820de0f0c55437270e58b796
+hash: sha256:3f50f8ad10e222ab068eee725688281419b120f94905358b15a34301762c47aa
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

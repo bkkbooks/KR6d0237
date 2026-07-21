@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0237_000-X.yaml, hash: 'sha256:dd2d96d249def776f4c6f7f3e2c3015e40e678dfb54f9bae32743ad3a8edcee1'}
+  - {seq: 0, filename: KR6d0237_000-X.yaml, hash: 'sha256:d2606abf2d34b0f31760d3d84420b471118db9f3d7d100b7e3e4bd1860d922bc'}
   - {seq: 1, filename: KR6d0237_001-X.yaml, hash: 'sha256:936c431519bcfc3d9a5bb58e79122a3f5acbf732d5140841ba8ef82e029181ef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0237_000-X.markers.yaml, hash: 'sha256:137d8aa88f7e0ce717e0f378b4a6fb0ab88a79cd8917b68e6af8a8b481524084'}
+  - {seq: 0, role: markers, filename: assets/KR6d0237_000-X.markers.yaml, hash: 'sha256:8bd51d1488529e1d6eea1de7f1abf8d432c8eeca43ec1fa2ba64596bdc25eb44'}
   - {seq: 1, role: markers, filename: assets/KR6d0237_001-X.markers.yaml, hash: 'sha256:27cc3a934fc154c2b808df9467184770eae56a3dc153fe8c5605114dbd2c3288'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0237_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 961-A 梓施食通覽序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0237_X_000-mulu-2
     span:
-    - front
+    - body
     - 373
     - 373
   label: No. 961-B 施食通覽(并序)
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0237_X_000-mulu-3
     span:
-    - front
+    - body
     - 549
     - 549
   label: 目錄
@@ -815,4 +815,4 @@ table_of_contents:
   label: No. 961-C 䟦
   type: mulu
   level: 1
-hash: sha256:43a94384d246a8be3fdc31d2493cde6e238d30ea5163b93bf9a67bf7b9811c6e
+hash: sha256:4e4ffdbb272daf37be3bcc70a3227d45cb613be8281733589ac3da83628b4afa
